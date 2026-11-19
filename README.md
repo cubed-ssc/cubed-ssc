@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05001a,50:7000ff,100:00e5ff&height=200&section=header&text=Life%20is%20like%20a%20Github%20Repository%20-%20If%20you%20don't%20commit,%20nothing%20will%20change&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-
-Life is like a Github Repository - If you don't commit, nothing will change
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05001a,50:7000ff,100:00e5ff&height=200&section=header&text=Life%20is%20like%20a%20Github%20Repository%20-%20If%20you%20don't%20commit,%20nothing%20will%20change&fontSize=15&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 </div>
 
