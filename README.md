@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,react,nodejs,git,github,vscode,linux,docker,mongodb,mysql&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,git,github,vscode,linux,docker,mongodb&perline=8" />
 
 ⭐ Thanks for visiting my profile!
 
