@@ -12,7 +12,6 @@ Life is like a Github Repository - If you don't commit, nothing will change
 
 ⭐ Thanks for visiting my profile!
 
-If you like what you see, consider leaving a ⭐ on my projects!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:7000ff,100:05001a&height=120&section=footer" width="100%"/>
 
